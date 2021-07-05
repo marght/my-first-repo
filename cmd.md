@@ -14,9 +14,11 @@
 | mkdir | 현제 위치에 폴더 생성 |
 | cp {a} {b} | a 파일을 b파일로 복사 |
 | cp -r {a} {b} | a 폴더내부의 모든 파일 및 폴더를 b폴더로 이동 |
+| git init {이름} | repository를 생성 |
 | git add {파일} | commit 할 파일을 추가 |
 | git status | 파일의 상태를 확인 |
 | git commit -m {변경 내용} | 변경사항을 commit 하고 해당 메시지 입력 |
+| git log | commit된 내용을 log로 보여줌 |
 
 
 
